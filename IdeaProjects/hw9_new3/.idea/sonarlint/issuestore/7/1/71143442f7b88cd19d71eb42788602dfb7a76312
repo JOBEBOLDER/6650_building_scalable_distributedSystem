@@ -1,0 +1,31 @@
+
+
+java:S1659"GDeclare "nextButton" and all following declarations on a separate line.(Ó—Š’şÿÿÿÿ8²Ÿç™î1J$c0c2733e-eab6-4b65-a088-7b1a437e7ce8
+¡
+java:S1450"YRemove the "exitButton" field and declare it as a local variable in the relevant methods.(Ó—Š’şÿÿÿÿ8³Ÿç™î1J$42258b09-fdd3-4812-bfe1-75bca91dfa75
+£
+java:S1450"[Remove the "selectButton" field and declare it as a local variable in the relevant methods.(Ó—Š’şÿÿÿÿ8³Ÿç™î1J$e695565c-55ad-4c33-91ab-945f2f8bd5b6
+n
+java:S1948",Make "controller" transient or serializable.(ë†Æ8áÀØ¡î1J$4c26c3e6-56b0-4e12-a290-8c7ece8b521e
+‘
+java:S32526"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8·Ÿç™î1J$e0e30321-7c7d-48de-a361-5c23ec1ff6d0
+w
+java:S1611="/Remove the parentheses around the "e" parameter(¾–ßşÿÿÿÿ8¸Ÿç™î1J$143ee491-f1d1-4788-85e4-3cddd173d8bb
+t
+java:S1602=",Remove useless curly braces around statement(¾–ßşÿÿÿÿ8¸Ÿç™î1J$24b5648c-e9b6-4d2c-bb4a-fe18adad9657
+q
+java:S1611@"/Remove the parentheses around the "e" parameter(ú”–Q8¸Ÿç™î1J$d073c9b4-0a76-47e4-92cf-8cf3a4a84ca1
+n
+java:S1602@",Remove useless curly braces around statement(ú”–Q8¸Ÿç™î1J$5bd2c50b-7013-4850-a102-73dc27c7d169
+w
+java:S1611C"/Remove the parentheses around the "e" parameter(ºû¾…ıÿÿÿÿ8¹Ÿç™î1J$ebf38241-d3bb-4cad-9d90-cd3b074bd17d
+t
+java:S1602C",Remove useless curly braces around statement(ºû¾…ıÿÿÿÿ8¹Ÿç™î1J$3c287baa-884e-4d1e-96a4-835ef620f118
+w
+java:S1611F"/Remove the parentheses around the "e" parameter(™¬ƒ°øÿÿÿÿ8¹Ÿç™î1J$bdde6721-9550-478b-9cf5-41efcdfb4e8a
+t
+java:S1602F",Remove useless curly braces around statement(™¬ƒ°øÿÿÿÿ8¹Ÿç™î1J$f627b6db-21ca-4d5c-a044-7e5034c30a78
+v
+java:S1068"3Remove this unused "snapshotDisplay" private field.(ÏÃşÀ8¿Ÿç™î1J$47d6b64e-a726-4dfb-8c19-4da3a0e80d98
+{
+java:S1068"8Remove this unused "currentSnapshotIndex" private field.(Èãìä8¿Ÿç™î1J$cafaf357-ed83-4e8b-86cd-7d04cd8f413c

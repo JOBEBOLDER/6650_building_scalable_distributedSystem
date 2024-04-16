@@ -1,0 +1,14 @@
+
+u
+java:S1854r"9Remove this useless assignment to local variable "color".(ªüİèJ$d76c0520-6c0e-4373-ba64-4cf2da126ef3
+f
+java:S1481r"*Remove this unused "color" local variable.(ªüİèJ$b5fb52bd-a3f3-4d28-adb9-4e2a2ef5afeb
+g	java:S106"+Replace this use of System.out by a logger.(ç‹íJ$db99027d-885c-460d-9d02-8fda80f75ccc
+g	java:S106"+Replace this use of System.out by a logger.(ö¡¹êJ$57e083cc-6626-43cb-8590-57a9814407ce
+g	java:S106½"+Replace this use of System.out by a logger.(Ğ°İæJ$190fcb50-fb88-4a4b-aa2a-1c1706d99e75
+f	java:S106¿"+Replace this use of System.out by a logger.(¸ó€aJ$a3773154-a8a5-4e46-9108-d4c9049c220b
+
+java:S1854Ò"=Remove this useless assignment to local variable "timestamp".(«®†ÆúÿÿÿÿJ$2dd235ad-80bf-4e99-bffb-6e18e6cd5541
+p
+java:S1481Ò".Remove this unused "timestamp" local variable.(«®†ÆúÿÿÿÿJ$babed4fa-4b8e-497e-82d6-7ba612259eb6
+}	java:S125Õ"<This block of commented-out lines of code should be removed.(­Ç„òùÿÿÿÿJ$8f7297de-1a6d-4763-8328-05ba5d2227b1
