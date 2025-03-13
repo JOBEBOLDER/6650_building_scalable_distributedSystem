@@ -1,6 +1,6 @@
 # Scalable Distributed Systems
 
-This repository contains projects for CS 6650 Scalable Distributed Systems course at Northeastern University - Silicon Valley.
+This repository contains projects for CS 6650 Scalable Distributed Systems course at Northeastern University, Boston, professor: Prasad Saripalli.
 
 ## Projects
 
