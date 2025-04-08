@@ -21,3 +21,6 @@ F
 project3/run-client.sh,1/f/1fdae53a297bda7e20cc7cad545c9a9eb6b0d54c
 B
 project3/README.md,a/e/aebcfbabccfbc5f582f9ec745a3f9998ae9dd6b6
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
